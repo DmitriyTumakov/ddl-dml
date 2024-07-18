@@ -1,0 +1,1 @@
+SELECT name, surname FROM persons WHERE age > 27 ORDER BY age DESC;
